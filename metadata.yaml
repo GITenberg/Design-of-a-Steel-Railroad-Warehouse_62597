@@ -1,11 +1,16 @@
 _repo: Design-of-a-Steel-Railroad-Warehouse_62597
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62597-h/images/cover.jpg
 creator:
   author:
     agent_name: Tallyn, Louis Liston
     gutenberg_agent_id: '52022'
     url: http://www.gutenberg.org/2009/agents/52022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62597#Design-of-a-Steel-Railroad-Warehouse
 gutenberg_issued: '2020-07-09'
 gutenberg_type: Text
 identifiers:
